@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GARASH HASANLI</h1>
-<h3 align="center">Computer Engineering Student | IT from Azerbaijan</h3>
+<h3 align="center">Computer Engineering Student | Full Stack Developer from Azerbaijan</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
